@@ -12,9 +12,6 @@ Este es un software de escritorio desarrollado en **C# y Windows Forms**, que pe
 - 📅 Calendario incorporado
 - 🖤 Interfaz amigable en tonos oscuros
 
-## 📸 Captura de pantalla
-*(Puedes agregar una imagen aquí si gustas)*
-
 ## 🛠️ Tecnologías usadas
 
 - C#
