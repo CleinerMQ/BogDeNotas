@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDeNotas", "BlogDeNotas.csproj", "{2A03357A-FFDC-4EAC-92B2-552322F7F6AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{DB0B0514-7B0D-42B5-8044-BD28945F50D8}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\USER\Downloads\9105027-removebg-preview.ico = C:\Users\USER\Downloads\9105027-removebg-preview.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A03357A-FFDC-4EAC-92B2-552322F7F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A03357A-FFDC-4EAC-92B2-552322F7F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A03357A-FFDC-4EAC-92B2-552322F7F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A03357A-FFDC-4EAC-92B2-552322F7F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3665F31A-2C54-402F-B372-B2DCA095BD49}
+	EndGlobalSection
+EndGlobal

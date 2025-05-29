@@ -1,0 +1,2 @@
+Presentación de resultados|Preparar una presentación para el cliente sobre los avances del proyecto.|01/01/0001 0:00:00|29/03/2025 18:28:12|True|Alta
+Investigación sobre nuevas tecnologías|Investigar sobre nuevas tecnologías que podamos implementar en el proyecto.|01/01/0001 0:00:00|15/03/2025 18:29:04|True|Baja

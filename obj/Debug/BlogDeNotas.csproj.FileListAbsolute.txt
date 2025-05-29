@@ -1,0 +1,14 @@
+D:\c#\BlogDeNotas\bin\Debug\BlogDeNotas.exe.config
+D:\c#\BlogDeNotas\bin\Debug\BlogDeNotas.exe
+D:\c#\BlogDeNotas\bin\Debug\BlogDeNotas.pdb
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.csproj.AssemblyReference.cache
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.Form1.resources
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.Properties.Resources.resources
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.csproj.GenerateResource.cache
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.csproj.CoreCompileInputs.cache
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.exe
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.pdb
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.frmNotas.resources
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.frmTareas.resources
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.frmAñadirNota.resources
+D:\c#\BlogDeNotas\obj\Debug\BlogDeNotas.frmAñadirTarea.resources
